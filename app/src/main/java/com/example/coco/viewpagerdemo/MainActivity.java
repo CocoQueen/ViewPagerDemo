@@ -22,21 +22,21 @@ public class MainActivity extends AppCompatActivity {
     }
     private List<String> imgListString() {
         List<String> imageData = new ArrayList<>();
-        imageData.add("http://d.hiphotos.baidu.com/image/h%3D200/sign=72b32dc4b719ebc4df787199b227cf79/58ee3d6d55fbb2fb48944ab34b4a20a44723dcd7.jpg");
-        imageData.add("http://pic.4j4j.cn/upload/pic/20130815/31e652fe2d.jpg");
-        imageData.add("http://pic.4j4j.cn/upload/pic/20130815/5e604404fe.jpg");
-        imageData.add("http://pic.4j4j.cn/upload/pic/20130909/681ebf9d64.jpg");
-        imageData.add("http://d.hiphotos.baidu.com/image/pic/item/54fbb2fb43166d22dc28839a442309f79052d265.jpg");
+        imageData.add("http://www.ocn.com.cn/Upload/userfiles/2%284803%29.jpg");
+        imageData.add("http://img.mp.itc.cn/upload/20161007/2cee7df1620348dbb49b64a5db2b65f8_th.jpg");
+        imageData.add("http://img2.imgtn.bdimg.com/it/u=1452538798,1715135974&fm=26&gp=0.jpg");
+        imageData.add("http://img4.imgtn.bdimg.com/it/u=3458490135,1559990291&fm=26&gp=0.jpg");
+        imageData.add("http://img0.imgtn.bdimg.com/it/u=341560786,3379695968&fm=26&gp=0.jpg");
         return imageData;
     }
 
     private List<String> titleListString() {
         List<String> titleData = new ArrayList<>();
-        titleData.add("1、在这里等着你");
-        titleData.add("2、在你身边");
-        titleData.add("3、打电话给你就是想说声“嗨”");
-        titleData.add("4、不介意你对我大喊大叫");
-        titleData.add("5、期待你总是尽全力");
+        titleData.add("1、李易峰");
+        titleData.add("2、杨洋");
+        titleData.add("3、张杰");
+        titleData.add("4、白敬亭");
+        titleData.add("5、TFBoys");
         return titleData;
     }
 }
